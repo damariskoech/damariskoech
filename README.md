@@ -1,4 +1,4 @@
-# damaris-damaris
+# damariskoech
 Hi, I'm Damaris 👩🏽‍💻
 . DevOps ·. Site Reliability Engineering · Cloud Infrastructure · Distributed Systems
 
