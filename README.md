@@ -16,6 +16,6 @@ What drives me: Understanding how systems fail, why they fail, and how to make t
 
 Career interests: DevOps, SRE, platform engineering, cloud infrastructure, and DevSecOps.
 
-Outside the terminal: Formula 1, McLaren, a bit of football and long ( really long walks.
+Outside the terminal: Formula 1, McLaren, a bit of football and long ( really long) walks.
 
 Current life status: Debugging infrastructure, my career, and approximately 47 other things. All have dependencies. 😂
